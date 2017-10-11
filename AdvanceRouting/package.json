@@ -1,0 +1,19 @@
+{
+  "name": "advancerouting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Chinmay Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.16.1",
+    "nodemon": "^1.12.1",
+    "python-shell": "^0.4.0",
+    "regex": "^0.1.1"
+  }
+}
