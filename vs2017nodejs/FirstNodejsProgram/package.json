@@ -1,0 +1,14 @@
+{
+  "name": "first-nodejs-program",
+  "version": "0.0.0",
+  "description": "FirstNodejsProgram",
+  "main": "app.js",
+  "author": {
+    "name": "chinmay_kulkarni"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "underscore": "^1.8.3"
+  }
+}
