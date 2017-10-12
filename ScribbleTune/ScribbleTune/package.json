@@ -1,0 +1,12 @@
+{
+  "name": "scribble-tune",
+  "version": "0.0.0",
+  "description": "ScribbleTune",
+  "main": "app.js",
+  "author": {
+    "name": "chinmay_kulkarni"
+  },
+  "dependencies": {
+    "scribbletune": "^0.11.0"
+  }
+}
